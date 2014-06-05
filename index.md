@@ -2,22 +2,22 @@
 layout: page
 title: Blogs
 tagline: blog
+class: index
 ---
 {% include JB/setup %}
 
 ## My Blogs :)
 
 
-
-[小豆物語]()  
+[小豆物語](http://kimama1997.blog130.fc2.com/)  
 ![ss](/assets/images/fc2b.png)  
 ブログ的なやつ。
 
-[タウン管理日誌]()  
+[タウン管理日誌](http://www18.atpages.jp/~town52/wordpress/)  
 ![ss](/assets/images/townad.png)  
 技術ブログ的な
 
-[ぴんくいろにっき]()  
-![ss](pd.png)  
+[ぴんくいろにっき](http://hina.wkeya.com/)  
+![ss](/assets/images/pd.png)  
 日記とか雑記とか
 

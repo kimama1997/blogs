@@ -80,7 +80,5 @@ h1, h2, h3, h4 {
   
 img{
   max-width: 100%;
-}
-.blogs img{
-  max-height: 200px;
+  max-height: 200px; 
 }
