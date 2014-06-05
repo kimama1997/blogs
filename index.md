@@ -6,6 +6,10 @@ class: index
 ---
 {% include JB/setup %}
 
+
+[back to hnle.tk](http://hnle.tk/)
+
+
 ## My Blogs :)
 
 
@@ -20,4 +24,3 @@ class: index
 [ぴんくいろにっき](http://hina.wkeya.com/)  
 ![ss](/assets/images/pd.png)  
 日記とか雑記とか
-
