@@ -7,7 +7,7 @@ class: index
 {% include JB/setup %}
 
 
-[back to hnle.tk](http://hnle.tk/)
+[≫back to hnle.tk](http://hnle.tk/)
 
 
 ## My Blogs :)
