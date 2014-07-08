@@ -24,3 +24,7 @@ class: index
 [ぴんくいろにっき](http://blog.hinaloe.net/)  
 ![ss](/assets/images/pd2.png)  
 日記とか雑記とか
+
+[ひなろえっ!](http://hinaloe.wordpress.com/)
+![]()
+Wordpress.com
