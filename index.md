@@ -25,6 +25,6 @@ class: index
 ![ss](/assets/images/pd2.png)  
 日記とか雑記とか
 
-[ひなろえっ!](http://hinaloe.wordpress.com/)
-![]()
+[ひなろえっ!](http://hinaloe.wordpress.com/)  
+![ss](/assets/images/wpcom.png)
 Wordpress.com
