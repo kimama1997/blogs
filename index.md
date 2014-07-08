@@ -21,6 +21,6 @@ class: index
 ![ss](/assets/images/townad.png)  
 技術ブログ的な
 
-[ぴんくいろにっき](http://hina.wkeya.com/)  
-![ss](/assets/images/pd.png)  
+[ぴんくいろにっき](http://blog.hinaloe.net/)  
+![ss](/assets/images/pd2.png)  
 日記とか雑記とか
